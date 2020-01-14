@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450906701736",
+    "firebase_url": "https://chat-nexo.firebaseio.com",
+    "project_id": "chat-nexo",
+    "storage_bucket": "chat-nexo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450906701736:android:961ae5c5930ed76d26a79d",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450906701736-5q7ljmftmbuee75agpmugm1rulhrc677.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblr8CnuTia0YhxvOg8GHnMUbSvoh9Iq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450906701736-5q7ljmftmbuee75agpmugm1rulhrc677.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
